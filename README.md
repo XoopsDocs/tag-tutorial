@@ -1,0 +1,4 @@
+tag
+===
+
+XOOPS Tag Module
